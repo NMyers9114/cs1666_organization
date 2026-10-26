@@ -3,8 +3,8 @@
 Before your presentation, use this file to get your talk outline approved. Be sure to provide an estimated time to spend on teach topic (totalling 45 minutes) and be sure not to repeat any topics covered in previous presentations.
 
 
-## Presentation
-### KOTR
+## Presentation 
+### KOTR (Nicholas M, Caleb, Trystin)
 - Current progress (5 minutes)
   - Overview of AI Implementation in Below
   - Listing all the topics to be covered, using our game for examples
